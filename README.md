@@ -1,1 +1,5 @@
-Microserviços utilizando conteiners docker para criação de ambiente servidor web com nginx e pagina web em Php e banco de dados.
+## Linux Experience
+# Docker: Utilização prática no cenário de Microsserviços Instrutor: Denilson Bonatti Digital Innovation One
+
+Pré-requisitos:
+Conhecimentos básicos em Linux, Docker e AWS.
